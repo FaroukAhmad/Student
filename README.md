@@ -1,2 +1,4 @@
 # Student
-It's my first repository, hope you love it
+Hi guys!
+I'm farouk from Nigeria, I'm new here nice to meet you all
+
